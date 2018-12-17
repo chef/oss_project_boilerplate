@@ -1,5 +1,6 @@
 # MY PROJECT
 Include badges for your CI system and and package repositories such as RubyGems so the community can easily see the released version.
+
 Give a brief description of what the repository contains. What this application or library. Sell it.
 
 ## Requirements
