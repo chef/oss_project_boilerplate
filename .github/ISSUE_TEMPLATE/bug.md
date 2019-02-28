@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Explain how THIS_SOFTWARE is not working as expected.
-labels: 'Type: Bug'
+labels: 'Type: Bug', 'Status: Untriaged'
 ---
 
 <!--- Provide a general summary of the issue in the Title above -->
